@@ -8,3 +8,6 @@ An HTML element that creates a paragraph
 
 ## Heading
 A series of HTML elements H1-H6 that create heading tags that decreasing in size as the number increases
+
+## Doctype
+Informs the browser or any parser the type of document it is viewing
