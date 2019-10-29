@@ -18,4 +18,9 @@ A container for metadata such as title, links and other information that describ
 ## Meta Element
 An HTML element that holds the metadata about HTML document
 
+## Link Element
+An HTML element that defines a link between a document and an external resource
+
+
+
 
