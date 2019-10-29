@@ -21,6 +21,9 @@ An HTML element that holds the metadata about HTML document
 ## Link Element
 An HTML element that defines a link between a document and an external resource
 
+## Title Element
+An  HTML element that holds the title of the HTML document
+
 
 
 
