@@ -15,6 +15,7 @@ A series of HTML elements H1-H6 that create heading tags that decreasing in size
 ## Head Element
 A container for metadata such as title, links and other information that describes the page but does not actually appear on the page
 
-
+## Meta Element
+An HTML element that holds the metadata about HTML document
 
 
