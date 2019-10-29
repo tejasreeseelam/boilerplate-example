@@ -12,5 +12,9 @@ An HTML element that creates a paragraph
 ## Heading
 A series of HTML elements H1-H6 that create heading tags that decreasing in size as the number increases
 
+## Head Element
+A container for metadata such as title, links and other information that describes the page but does not actually appear on the page
+
+
 
 
